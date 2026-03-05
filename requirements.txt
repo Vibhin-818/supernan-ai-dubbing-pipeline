@@ -1,0 +1,19 @@
+# Core AI Models
+openai-whisper
+deep-translator
+TTS
+torch>=2.0.0
+torchvision
+
+# Audio Processing
+librosa==0.9.2
+numba==0.56.4
+soundfile
+scipy
+
+# Visual Sync & Restoration
+opencv-python
+basicsr
+facexlib
+realesrgan
+tqdm
